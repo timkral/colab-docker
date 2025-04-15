@@ -3,6 +3,7 @@
 Docker images for local runtimes that can be used with Google Colab. This respository contains the following images:
 
 - Python39: A runtime with the python version downgraded to 3.9. As of this writing, the Google Colab default is 3.11 and some older libraries do not function under this version.
+- IceVision: A [computer vision library](https://github.com/airctic/icevision).
 
 ## Instructions
 
