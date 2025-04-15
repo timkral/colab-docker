@@ -1,0 +1,18 @@
+.env
+.env.*
+*.env
+.file_store/
+.python-version
+*.secrets
+.secrets
+*.test_output/
+.test_output/
+
+# System files
+__pycache__
+.DS_Store
+
+# Editor files
+*.sublime-project
+*.sublime-workspace
+.vscode/
